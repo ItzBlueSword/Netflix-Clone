@@ -1,4 +1,15 @@
 # Netflix-Clone
+## Table of Content
+- [About](#about)
+- [Home Page](#home-page)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Future Work](#future-work)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
+
+## About
 This is a clone of the Netflix homepage created by **ItzBlueSword**. It aims to replicate the look and feel of Netflix's website and provide a similar user experience. project is a clone of the Netflix website and provides a user-friendly interface for streaming movies and TV shows. The website is built using HTML and CSS.
 
 ## Home Page
